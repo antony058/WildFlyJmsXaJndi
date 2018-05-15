@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: ru.bellintegrator.weatherbroker.messageservice.integrationaltests.JmsMessageListenerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 10.588 s <<< FAILURE! - in ru.bellintegrator.weatherbroker.messageservice.integrationaltests.JmsMessageListenerTest
+jmsSendingTest2(ru.bellintegrator.weatherbroker.messageservice.integrationaltests.JmsMessageListenerTest)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+Caused by: org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+
+jmsSendingTest(ru.bellintegrator.weatherbroker.messageservice.integrationaltests.JmsMessageListenerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+Caused by: org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+

@@ -1,1 +1,5 @@
-ru\bellintegrator\weatherbroker\BrokerproducerApplicationTests.class
+ru\bellintegrator\weatherbroker\requestservice\RestTemplateManagerTest.class
+ru\bellintegrator\weatherbroker\messageservice\integrationaltests\JmsMessageListenerTest.class
+ru\bellintegrator\weatherbroker\messageservice\MessageServiceTest.class
+ru\bellintegrator\weatherbroker\requestservice\integrationaltests\RestTemplateManagerTest.class
+ru\bellintegrator\weatherbroker\servicemanager\ServiceManagerTest.class

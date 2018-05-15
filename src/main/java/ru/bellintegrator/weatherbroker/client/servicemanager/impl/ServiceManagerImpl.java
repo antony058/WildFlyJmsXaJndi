@@ -20,6 +20,9 @@ public class ServiceManagerImpl implements ServiceManager {
         this.messageService = messageService;
     }
 
+    /**
+     * {@inheritDoc}
+     */
     @Override
     public void pushCity(String cityName) throws NotFoundException {
         WeatherView weatherView = restTemplateManager.sendRequest(cityName);

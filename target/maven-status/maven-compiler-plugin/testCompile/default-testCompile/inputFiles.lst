@@ -1,1 +1,5 @@
-D:\WildFlyJmsXaJndi\src\test\java\ru\bellintegrator\weatherbroker\BrokerproducerApplicationTests.java
+D:\brokerproducer\weatherbrokerclient\src\test\java\ru\bellintegrator\weatherbroker\messageservice\integrationaltests\JmsMessageListenerTest.java
+D:\brokerproducer\weatherbrokerclient\src\test\java\ru\bellintegrator\weatherbroker\servicemanager\ServiceManagerTest.java
+D:\brokerproducer\weatherbrokerclient\src\test\java\ru\bellintegrator\weatherbroker\requestservice\integrationaltests\RestTemplateManagerTest.java
+D:\brokerproducer\weatherbrokerclient\src\test\java\ru\bellintegrator\weatherbroker\requestservice\RestTemplateManagerTest.java
+D:\brokerproducer\weatherbrokerclient\src\test\java\ru\bellintegrator\weatherbroker\messageservice\MessageServiceTest.java
