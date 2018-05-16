@@ -1,10 +1,10 @@
-ru\bellintegrator\weatherbroker\controller\JmsController.class
 ru\bellintegrator\weatherbroker\server\city\view\CityView.class
 ru\bellintegrator\weatherbroker\server\exceptionhandler\ExceptionHandlingController.class
+ru\bellintegrator\weatherbroker\client\config\AppDevelopConfig.class
 ru\bellintegrator\weatherbroker\client\messageservice\service\MessageService.class
+ru\bellintegrator\weatherbroker\client\controller\ViewController.class
 ru\bellintegrator\weatherbroker\client\exception\NotFoundException.class
 ru\bellintegrator\weatherbroker\client\servicemanager\ServiceManager.class
-ru\bellintegrator\weatherbroker\messageservice\JmsProducer.class
 ru\bellintegrator\weatherbroker\client\config\AppConfig.class
 ru\bellintegrator\weatherbroker\server\weather\model\Weather.class
 ru\bellintegrator\weatherbroker\client\messageservice\service\impl\MessageServiceImpl.class
@@ -14,8 +14,6 @@ ru\bellintegrator\weatherbroker\client\requestservice\RestTemplateManager.class
 ru\bellintegrator\weatherbroker\server\weather\view\WeatherView.class
 ru\bellintegrator\weatherbroker\server\city\model\City.class
 ru\bellintegrator\weatherbroker\client\messageservice\JmsMessageProducer$1.class
-ru\bellintegrator\weatherbroker\client\servlets\ViewController.class
+ru\bellintegrator\weatherbroker\client\config\AppTestConfig.class
 ru\bellintegrator\weatherbroker\BrokerproducerApplication.class
-ru\bellintegrator\weatherbroker\messageservice\JmsProducer$1.class
 ru\bellintegrator\weatherbroker\server\weather\view\Query.class
-ru\bellintegrator\weatherbroker\messageservice\JmsConsumer.class

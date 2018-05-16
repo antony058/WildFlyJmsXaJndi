@@ -9,7 +9,6 @@ import ru.bellintegrator.weatherbroker.server.weather.view.WeatherView;
 
 import javax.jms.JMSException;
 import javax.jms.Message;
-import javax.jms.ObjectMessage;
 import javax.jms.Session;
 
 @Component
